@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6876134b-cce0-4e23-87f1-fab1bc23610c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Flags/Flag_of_France_official.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Flags/Flag_of_Mauritania.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Flags/Flag_of_the_United_States.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Flags/en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Flags/fr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/arrowEven.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/arrowOdd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/bannerBg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/core-feature/briefcase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/core-feature/secure.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/testimonial/avatar1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/testimonial/avatar2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/testimonial/avatar3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/testimonial/avatar4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/accordion/accordion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/accordion/base-accordion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/accordion/shared.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/feature-card-column.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/feature-card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/price-card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rating.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/text-feature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/core-feature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/faq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/feature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/key-feature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/package.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/partner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/secure-payment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/workflow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/workflow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/theme/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/theme/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GGBugq85HVV08VN7rqAilhGMD0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.webpack&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PhpStorm 2022.2.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Codes\itkann\src\components\forms" />
+      <recent name="C:\Codes\itkann\src\assets\css" />
+      <recent name="C:\Codes\itkann\src\assets" />
+      <recent name="C:\Codes\itkann\public\static\en" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6876134b-cce0-4e23-87f1-fab1bc23610c" name="Changes" comment="" />
+      <created>1666005273317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666005273317</updated>
+      <workItem from="1666005279518" duration="30000" />
+      <workItem from="1666176949433" duration="1492000" />
+      <workItem from="1666402930252" duration="1310000" />
+      <workItem from="1666405496326" duration="7738000" />
+      <workItem from="1666564612000" duration="4241000" />
+      <workItem from="1666604958038" duration="6912000" />
+      <workItem from="1666612864563" duration="5211000" />
+      <workItem from="1666620191132" duration="3031000" />
+      <workItem from="1666624132515" duration="10000" />
+      <workItem from="1667906539322" duration="1009000" />
+      <workItem from="1667908862757" duration="2310000" />
+      <workItem from="1667911783238" duration="1814000" />
+      <workItem from="1667913707894" duration="8000" />
+      <workItem from="1667913737848" duration="1997000" />
+      <workItem from="1667916348401" duration="3896000" />
+      <workItem from="1667920721997" duration="1146000" />
+      <workItem from="1667929168587" duration="310000" />
+      <workItem from="1667925119863" duration="6781000" />
+      <workItem from="1667986756691" duration="1909000" />
+      <workItem from="1667988958430" duration="9000" />
+      <workItem from="1667997625552" duration="1989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="next.config.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
