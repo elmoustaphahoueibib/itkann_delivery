@@ -25,11 +25,11 @@ const PersonalInfo = () => {
 
     return (
         <div className="contain">
-            <p>Enter Your Details</p>
+            <p>Entrer vos informations</p>
             <form className="form">
                 <input className="formInput" type="text" placeholder="Nom" onChange={e => updateContext.setName(e.target.value)} required/>
                 <input className="formInput" type="text" placeholder="Prénom" onChange={e => updateContext.setLastName(e.target.value)} required/>
-                <input className="formInput" type="email" placeholder="Email Id" onChange={e => updateContext.setEmail(e.target.value)} required/>
+                <input className="formInput" type="email" placeholder="Email" onChange={e => updateContext.setEmail(e.target.value)} required/>
                 <input className="formInput" type="text" placeholder="Numéro" maxLength="8" onChange={e => updateContext.setPhone(e.target.value)}  required/>
                 <input className="formInput" type="text" placeholder="Nni" maxLength="10" onChange={e => updateContext.setNni(e.target.value)}  required/>
                 <button type="button" className="formSubmit" onClick={next} >Next</button>
