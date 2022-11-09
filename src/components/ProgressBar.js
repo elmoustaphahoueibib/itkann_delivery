@@ -11,7 +11,7 @@ const ProgressBar = () => {
     const background = {
         backgroundColor: '#dee2e6',
         height: 8,
-        width: 400,
+        width: 300,
         borderRadius: 20,
     }
 
