@@ -16,8 +16,9 @@
     flex-direction: column;
     box-shadow: 0 10px 10px rgb(0 0 0 / 0.5);
     align-items: center;
-    height: 450px;
-    width: 350px;
+    height: 615px;
+    width: 400px;
+    overflow: hidden !important;
 }
 
 .contain {
