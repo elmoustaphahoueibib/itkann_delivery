@@ -47,7 +47,7 @@ const Justificatif = () => {
                     <label htmlFor="card id">
                         Card Id
                         <br/>
-
+                        <input className="formInput" type="file" placeholder="Car Id" onChange={e => updateContext.setAssurance(e.target.value)} required/>
                     </label>
 
                     <div className="multipleButtons">
