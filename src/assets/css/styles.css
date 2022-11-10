@@ -16,7 +16,7 @@
     flex-direction: column;
     box-shadow: 0 10px 10px rgb(0 0 0 / 0.5);
     align-items: center;
-    height: 515px;
+    height: 600px;
     width: 350px;
     overflow: hidden !important;
 }
