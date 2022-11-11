@@ -8,14 +8,15 @@ const Justificatif = () => {
     const next = () => {
         if (updateContext.userPhoto == null) {
             console.log('Please select your Photo')
-        }else if(updateContext.userPermis == null){
+        } else if (updateContext.userCardId == null) {
+            console.log('Please fill out your cardId')
+        }
+        else if(updateContext.userPermis == null){
             console.log('please upload your permis')
         } else if (updateContext.issueDate == null) {
             console.log('Plese enter your license issue date')
         } else if (updateContext.userAssurance == null) {
             console.log('Please fill your company name')
-        } else if(updateContext.userCardId) {
-            console.log('Please fill your card id')
         } else (updateContext.setStep(updateContext.currentPage + 1))
     };
 
@@ -29,6 +30,10 @@ const Justificatif = () => {
 
                         <input className="formInput" type="file" placeholder="User Pic" onChange={e => updateContext.setPhoto(e.target.value)} required/>
                     </label>
+                    <label htmlFor="Card Id">
+                        Carte d'identité
+                        <input type="file" placeholder="user card" onChange={e => updateContext.setCardId((e.target.value))} required={true}/>
+                    </label>
                       <label htmlFor="permis">
                           Date de votre permis
                           <br/>
@@ -41,14 +46,10 @@ const Justificatif = () => {
                     <label htmlFor="photo de permis">
                         Assurance
                         <br />
-                        <input className="formInput" type="file" placeholder="Assurance" onChange={e => updateContext.setCardId(e.target.value)} required/>
+                        <input className="formInput" type="file" placeholder="Assurance" onChange={e => updateContext.setAssurance(e.target.value)} required/>
                     </label>
 
-                    <label htmlFor="card id">
-                        Card Id
-                        <br/>
-                        <input className="formInput" type="file" placeholder="Car Id" onChange={e => updateContext.setAssurance(e.target.value)} required/>
-                    </label>
+
 
                     <div className="multipleButtons">
                         <button className="multipleButton" value="Previous" type="button" onClick={() => updateContext.setStep(updateContext.currentPage - 1)}>Previous </button>
