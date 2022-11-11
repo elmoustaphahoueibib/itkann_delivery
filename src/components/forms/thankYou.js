@@ -16,7 +16,7 @@ const ThankYou = () => {
     return (
         <div className="contain">
             <p>Successfully Submitted</p>
-            <p>Thanks for {name} your details</p>
+            <p>Thanks {name} for your details</p>
             <br/>
             <img className="done"  src={logoGold} alt="successful"  style={{ width: "100px" }}/>
             <button className="doneSubmit" onClick={finish}>Done</button>
